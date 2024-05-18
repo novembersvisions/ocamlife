@@ -1,0 +1,6 @@
+_build/
+_opam/
+*.coverage
+.DS_Store
+data/user_credentials.csv
+*._coverage/

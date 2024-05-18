@@ -1,0 +1,5 @@
+(tests
+ (names test_auth test_mood test_financial test_data)
+ (preprocess
+  (pps bisect_ppx))
+ (libraries ounit2 ocamlife bisect_ppx.runtime))

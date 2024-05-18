@@ -1,0 +1,4 @@
+(executable
+ (public_name ocamlife)
+ (name main)
+ (libraries ocamlife ANSITerminal))
